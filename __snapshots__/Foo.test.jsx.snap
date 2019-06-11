@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Foo Wrapped shallow 1`] = `
+<Foo
+  store={Object {}}
+/>
+`;
+
+exports[`Foo shallow 1`] = `
+<div>
+  Test
+</div>
+`;
